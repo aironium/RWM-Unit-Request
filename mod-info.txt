@@ -1,0 +1,6 @@
+[mod]
+title: Unit Requests
+description: A bunch of unit requests that has been made as a functional unit by Aironium
+tags: starting-units, units, experimentals
+
+minVersion: 1.15
